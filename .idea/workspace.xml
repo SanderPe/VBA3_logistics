@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9014a9fb-a08a-4012-89ee-10ecd9bd6156" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.0" />
+  <component name="ProjectId" id="1pXMO7Ilt0AgFFX7sPL8mOVly7K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sander\Desktop\School\vba3" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9014a9fb-a08a-4012-89ee-10ecd9bd6156" name="Default Changelist" comment="" />
+      <created>1615324946462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615324946462</updated>
+      <workItem from="1615324947530" duration="677000" />
+      <workItem from="1615375612880" duration="3437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="238" key="#CLI_Interpreters" timestamp="1615376462253">
+      <screen x="0" y="0" width="3840" height="1160" />
+    </state>
+    <state x="417" y="238" key="#CLI_Interpreters/0.0.3840.1160@0.0.3840.1160" timestamp="1615376462253" />
+    <state x="544" y="226" key="#PHP" timestamp="1615376464986">
+      <screen x="0" y="0" width="3840" height="1160" />
+    </state>
+    <state x="544" y="226" key="#PHP/0.0.3840.1160@0.0.3840.1160" timestamp="1615376464986" />
+    <state width="1571" height="343" key="GridCell.Tab.0.bottom" timestamp="1615376425146">
+      <screen x="0" y="0" width="3840" height="1160" />
+    </state>
+    <state width="1571" height="343" key="GridCell.Tab.0.bottom/0.0.3840.1160@0.0.3840.1160" timestamp="1615376425146" />
+    <state width="1571" height="343" key="GridCell.Tab.0.center" timestamp="1615376425146">
+      <screen x="0" y="0" width="3840" height="1160" />
+    </state>
+    <state width="1571" height="343" key="GridCell.Tab.0.center/0.0.3840.1160@0.0.3840.1160" timestamp="1615376425146" />
+    <state width="1571" height="343" key="GridCell.Tab.0.left" timestamp="1615376425146">
+      <screen x="0" y="0" width="3840" height="1160" />
+    </state>
+    <state width="1571" height="343" key="GridCell.Tab.0.left/0.0.3840.1160@0.0.3840.1160" timestamp="1615376425146" />
+    <state width="1571" height="343" key="GridCell.Tab.0.right" timestamp="1615376425146">
+      <screen x="0" y="0" width="3840" height="1160" />
+    </state>
+    <state width="1571" height="343" key="GridCell.Tab.0.right/0.0.3840.1160@0.0.3840.1160" timestamp="1615376425146" />
+    <state x="745" y="338" key="NewPhpFileDialog" timestamp="1615377010523">
+      <screen x="0" y="0" width="3840" height="1160" />
+    </state>
+    <state x="745" y="338" key="NewPhpFileDialog/0.0.3840.1160@0.0.3840.1160" timestamp="1615377010523" />
+  </component>
+</project>
